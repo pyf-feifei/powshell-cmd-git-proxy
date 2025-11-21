@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.ps1xml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
